@@ -9,7 +9,10 @@
 **Abstract:** Accurate and efficient anomaly detection is a key enabler for the cognitive management of optical networks, but traditional anomaly detection algorithms are computationally complex and do not scale well with the amount of monitoring data. Therefore, we propose an optical spectrum anomaly detection scheme that exploits computer vision and deep unsupervised learning to perform optical network monitoring relying only on constellation diagrams of received signals. The proposed scheme achieves 100\% detection accuracy even without prior knowledge of the anomalies. Furthermore, operation with encoded images of constellation diagrams reduces the runtime by up to 200 times.
 
 Paper (IEEEXplore): https://ieeexplore.ieee.org/document/9336677
+
 Dataset (IEEE Data Port): https://dx.doi.org/10.21227/g9s9-ba02
+
+Authors' version of the paper: https://research.chalmers.se/en/publication/522246
 
 ![Performance of the proposed scheme](figures/falses-algorithms.svg)
 
